@@ -1,5 +1,5 @@
 var search = $("#search").val;
-var format = $("#format")/val;
+var format = $("#format").val;
 
 function submitHandler(event)    {
     event.preventDefault();
