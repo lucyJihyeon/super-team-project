@@ -1,2 +1,2 @@
 # super-team-project
-this is a git repo to demonstrate how to collaborate 
+I enjoy JavaScript because it utilizes both Functional programming and Object-oriented programming.
