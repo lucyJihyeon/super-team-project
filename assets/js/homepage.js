@@ -22,6 +22,7 @@ $(document).ready(function()  {
                     response.json().then(function (data)    {
                         console.log(data.results);
                         if (data.results)   {
+                            result.html="";
                             for (var i = 0; i < data.results.length; i++)   {
                                 console.log(data.results[i].date);
                                 console.log(data.results[i].title);
